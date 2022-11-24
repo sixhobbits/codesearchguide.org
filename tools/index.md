@@ -13,7 +13,6 @@ A list of all known standalone code search tools, both internal and publicly ava
 - [Azure DevOps code search](https://docs.microsoft.com/en-us/azure/devops/project/search/get-started-search)
 - [Hound](https://github.com/hound-search/hound) from Etsy
 - [Livegrep](https://github.com/livegrep/livegrep) ([implementation blog post](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/), [another blog post](https://slacker.ro/2020/02/03/reflections-on-software-performance/))
-- [Searchcode](https://searchcode.com/)
 - [Zoekt](https://github.com/google/zoekt)
 - [GitHub code search](https://cs.github.com)
 - [Google Cloud Source Repositories code search](https://cloud.google.com/source-repositories/docs/searching-code)
@@ -21,3 +20,5 @@ A list of all known standalone code search tools, both internal and publicly ava
 - [Sourcetrail](https://www.sourcetrail.com/)
 - [grep.app](https://grep.app/)
 - [mozsearch](https://github.com/mozsearch/mozsearch)
+- [Searchcode](https://searchcode.com/) ([implementation blog post](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/))
+
